@@ -1,6 +1,7 @@
 # StarWarsAPI_People_Java
 
 This is a small test suite example of testing the StarWars People API using Java language.
+Built using Intellij
 
 Written by Derek Johnson,  3/25/2020
 
