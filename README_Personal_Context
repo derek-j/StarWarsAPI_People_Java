@@ -1,0 +1,21 @@
+-------------------------------------------------------
+Some Personal Context about this programming challenge:
+-------------------------------------------------------
+I realize some people might come across these examples from others.  Let me add a little context:
+I have used Java for Rest API endpoint testing and used the standard JAVA HTTP libraries.  It has been a few 
+years since doing that.  During the past several years, most of my work has been using Python, which makes it 
+very easy to do REST API development/testing.  For fun, I wrote some quick tests in Python.  Took maybe an hour 
+total.  However I knew they wanted it done in Java.  Since it had been a few years I wanted to see if Java had 
+better tools/libraries to do this than I used previously.  I came across RestAssured.  In just about an hour, 
+I had figured out Rest Assured and had some tests running with the RestAssured framework.  RestAssured simplifies  
+REST API’s testing. 
+
+So I wrote these with RestAssured as first time I have used it, but it only took a few hours total, I then added 
+some custom code as well, in the final test case, to Marshall/Unmarshall JSON Strings to Java Objects.  As a 
+demonstration of getting even better access to data we might need or want to test.  
+Through my vast experience, I pick up new technologies really quickly and can make effective use of them quickly.  
+This is an example of that.
+The Engineering Director was very pleased, said I was the only person whom he has assigned this too who didn’t 
+need help and gave the best solution he had seen.  Unfortunately he just offered the position to another person 
+who had the exact skill set he was looking for.  The story hasn’t ended yet here!  He really wants to bring me 
+on and is trying to make that happen.
